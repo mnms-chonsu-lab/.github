@@ -38,8 +38,8 @@
 | 레포 | 역할 | 담당 |
 | --- | --- | --- |
 | [mnm-dev](https://github.com/mnms-chonsu-lab/mnm-dev) | 농가 앱 · 접수자 웹 · FastAPI 백엔드 · 배포 인프라 · 전체 `docker-compose` | 이유민, 이인서 |
-| [mnm-ai](https://github.com/mnms-chonsu-lab/mnm-ai) | LLM 에이전트 3개 · 규칙 코드 · 인식 모델 추론 · 학습·평가·MLflow | 박명훈 (MLOps는 이인서 공동) |
-| [mnm-data](https://github.com/mnms-chonsu-lab/mnm-data) | DB 마이그레이션 · 공공데이터 수집 · SOP·법령 지식베이스 · 시드 | 서인교 |
+| [mnm-ai](https://github.com/mnms-chonsu-lab/mnm-ai) | LLM 에이전트 3개 · 규칙 코드 · 인식 모델 추론 · 학습·평가·MLflow | 박명훈, 서인교 |
+| [mnm-data](https://github.com/mnms-chonsu-lab/mnm-data) | DB 마이그레이션 · 공공데이터 수집 · SOP·법령 지식베이스 · 시드 | 서인교, 이인서 |
 
 ---
 
@@ -49,8 +49,8 @@
 | --- | --- | --- |
 | 이유민 | PM · Frontend | [@kkamret](https://github.com/kkamret) |
 | 이인서 | Backend · Infra · MLOps | [@dooooing](https://github.com/dooooing) |
-| 박명훈 | AI | [@parkmyeonghun](https://github.com/parkmyeonghun) |
-| 서인교 | Data | [@tjdlsry](https://github.com/tjdlsry) |
+| 박명훈 | AI · Infra | [@parkmyeonghun](https://github.com/parkmyeonghun) |
+| 서인교 | Data · AI | [@tjdlsry](https://github.com/tjdlsry) |
 
 ---
 
