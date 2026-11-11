@@ -37,7 +37,7 @@
 
 | 레포 | 역할 | 담당 |
 | --- | --- | --- |
-| [mnm-dev](https://github.com/mnms-chonsu-lab/mnm-dev) | 농가 앱 · 접수자 웹 · FastAPI 백엔드 · 배포 인프라 · 전체 `docker-compose` | 이유민, 이인서 |
+| [mnm-dev](https://github.com/mnms-chonsu-lab/mnm-dev) | 농가 앱 · 접수자 웹 · FastAPI 백엔드 · 배포 인프라 · 전체 `docker-compose` | 보경, 이인서 |
 | [mnm-frontend](https://github.com/mnms-chonsu-lab/mnm-frontend) | 농가 앱(모바일 반응형 웹앱) · 접수자 웹 · 어드민 | 보경, 이유민 |
 | [mnm-ai](https://github.com/mnms-chonsu-lab/mnm-ai) | LLM 에이전트 3개 · 규칙 코드 · 인식 모델 추론 · 학습·평가·MLflow | 박명훈, 서인교 |
 | [mnm-data](https://github.com/mnms-chonsu-lab/mnm-data) | DB 마이그레이션 · 공공데이터 수집 · SOP·법령 지식베이스 · 시드 | 서인교, 이인서 |
