@@ -49,9 +49,10 @@
 | 이름 | 역할 | GitHub |
 | --- | --- | --- |
 | 이유민 | PM · Frontend | [@kkamret](https://github.com/kkamret) |
-| 이인서 | Backend · Infra · MLOps | [@dooooing](https://github.com/dooooing) |
+| 이인서 | Infra · MLOps | [@dooooing](https://github.com/dooooing) |
 | 박명훈 | AI · Infra | [@parkmyeonghun](https://github.com/parkmyeonghun) |
 | 서인교 | Data · AI | [@tjdlsry](https://github.com/tjdlsry) |
+| 주보경 | Frontend · Backend | [@joobogyeong]([https://github.com/joobogyeong]) |
 
 ---
 
