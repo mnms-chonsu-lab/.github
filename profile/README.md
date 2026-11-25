@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./overview.png" alt="촌수의사 — 말로 남기면, 신고까지 이어져요. 고령·소규모 한우농가를 위한 신고·기록·방역 업무 지원 서비스" width="100%">
+  <img src="https://raw.githubusercontent.com/mnms-chonsu-lab/.github/main/profile/GitHub%20%EC%86%8C%EA%B0%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%401x.png" alt="촌수의사 — 말로 남기면, 신고까지 이어져요. 고령·소규모 한우농가를 위한 신고·기록·방역 업무 지원 서비스" width="100%">
 </p>
 
 <br>
